@@ -1,0 +1,61 @@
+﻿{
+   "CodeGenerationMode": 2,
+   "ContextClassName": "Contexto",
+   "ContextNamespace": null,
+   "DefaultDacpacSchema": null,
+   "FilterSchemas": false,
+   "IncludeConnectionString": false,
+   "ModelNamespace": null,
+   "OutputContextPath": null,
+   "OutputPath": "Models",
+   "PreserveCasingWithRegex": true,
+   "ProjectRootNamespace": "ApiRestPedidosEF6",
+   "Schemas": null,
+   "SelectedHandlebarsLanguage": 0,
+   "SelectedToBeGenerated": 0,
+   "Tables": [
+      {
+         "Name": "[dbo].[Cliente]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[Item]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[ItemPedido]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[Pedido]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[VW_ItensPedido]",
+         "ObjectType": 3
+      },
+      {
+         "Name": "[dbo].[VW_Pedido]",
+         "ObjectType": 3
+      }
+   ],
+   "UiHint": "DESKTOP-JH2OBJ2\\SQL2019.APIRESTPEDIDOS",
+   "UseBoolPropertiesWithoutDefaultSql": false,
+   "UseDatabaseNames": true,
+   "UseDbContextSplitting": false,
+   "UseFluentApiOnly": false,
+   "UseHandleBars": false,
+   "UseHierarchyId": false,
+   "UseInflector": false,
+   "UseLegacyPluralizer": false,
+   "UseManyToManyEntity": false,
+   "UseNoConstructor": false,
+   "UseNoDefaultConstructor": false,
+   "UseNoNavigations": false,
+   "UseNoObjectFilter": true,
+   "UseNodaTime": false,
+   "UseNullableReferences": false,
+   "UseSchemaFolders": false,
+   "UseSpatial": true,
+   "UseT4": false
+}
