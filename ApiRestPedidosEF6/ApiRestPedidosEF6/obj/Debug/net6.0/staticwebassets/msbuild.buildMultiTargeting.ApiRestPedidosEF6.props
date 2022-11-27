@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\ApiRestPedidosEF6.props" />
+</Project>

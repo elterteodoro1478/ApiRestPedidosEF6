@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\elter\\source\\repos\\ApiRestPedidosEF6\\ApiRestPedidosEF6\\ApiRestPedidosEF6.csproj": {}
+    "C:\\Users\\elter\\source\\repos\\WebApiRestMoveisEF6\\elterteodoro1478\\ApiRestPedidosEF6\\ApiRestPedidosEF6\\ApiRestPedidosEF6\\ApiRestPedidosEF6.csproj": {}
   },
   "projects": {
-    "C:\\Users\\elter\\source\\repos\\ApiRestPedidosEF6\\ApiRestPedidosEF6\\ApiRestPedidosEF6.csproj": {
+    "C:\\Users\\elter\\source\\repos\\WebApiRestMoveisEF6\\elterteodoro1478\\ApiRestPedidosEF6\\ApiRestPedidosEF6\\ApiRestPedidosEF6\\ApiRestPedidosEF6.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\elter\\source\\repos\\ApiRestPedidosEF6\\ApiRestPedidosEF6\\ApiRestPedidosEF6.csproj",
+        "projectUniqueName": "C:\\Users\\elter\\source\\repos\\WebApiRestMoveisEF6\\elterteodoro1478\\ApiRestPedidosEF6\\ApiRestPedidosEF6\\ApiRestPedidosEF6\\ApiRestPedidosEF6.csproj",
         "projectName": "ApiRestPedidosEF6",
-        "projectPath": "C:\\Users\\elter\\source\\repos\\ApiRestPedidosEF6\\ApiRestPedidosEF6\\ApiRestPedidosEF6.csproj",
+        "projectPath": "C:\\Users\\elter\\source\\repos\\WebApiRestMoveisEF6\\elterteodoro1478\\ApiRestPedidosEF6\\ApiRestPedidosEF6\\ApiRestPedidosEF6\\ApiRestPedidosEF6.csproj",
         "packagesPath": "C:\\Users\\elter\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\elter\\source\\repos\\ApiRestPedidosEF6\\ApiRestPedidosEF6\\obj\\",
+        "outputPath": "C:\\Users\\elter\\source\\repos\\WebApiRestMoveisEF6\\elterteodoro1478\\ApiRestPedidosEF6\\ApiRestPedidosEF6\\ApiRestPedidosEF6\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
